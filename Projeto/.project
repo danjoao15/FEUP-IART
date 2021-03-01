@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>i</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>.classpath</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/lbaw/FEUP-IART/Projeto/.classpath</locationURI>
+		</link>
+		<link>
+			<name>.project</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/lbaw/FEUP-IART/Projeto/.project</locationURI>
+		</link>
+		<link>
+			<name>BookWorm.iml</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/lbaw/FEUP-IART/Projeto/BookWorm.iml</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>

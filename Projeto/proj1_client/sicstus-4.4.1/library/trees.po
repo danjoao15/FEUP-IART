@@ -1,0 +1,17 @@
+#! /bin/sh
+exec sicstus-4.4.1 -r "$0" -a "$@"
+# META_INFO 1
+# FILE: "/private/tmp/octopussy-vm-mac-os-x-10-13-build-20180317-125404/srcdir/library/trees.po"
+# META_INFO END
+version=5 archmask=0x2805b
+xœ­Z]l\G¾»þ[{ëd8ÎÓz‹[H‚D!H‚ºôXBDkªÖ~@x¼Iìšd›8Mr¥"È	)ªÐŠ"UJº…à6‚‡$Ê6A±T*­•^CUsçÎ÷ÍÞ{¼ë{¥dîÜ9óÍ9ßœ3sf¼Ž£Ÿ£=ºìF½eñÕ½o½Ñqâ||Í+…Ê·úóšnèìôÓ9'‚¥¿õÅ#Ô]NøÉ?Gõ,Pÿü‹}ê{¿ÀÉÜÔí_{óšßžDý»O¿ä×_ÿÁ—KnôK>S?º7ëªh_8“Ë5Ö¥7êFÔOëhÍÐO´5Í¬#Î½ZG+È’#pmõã3Ùê,ñqó?óåÌÇÝï(¶\Tó9'ŠJþÝøÂTà	Fyç{ºžD5&pØ±S(Å~NÂG][[ÃVŽ~k-0•SMÜ÷øì¼ç|&@m/êÑp_çÊÒïûõTˆÑ}‡úX~Þt¸ôa]öõl¿zzæÜ|Îˆß‰†õjî ‘<KûîéDîÔÔüôWruSß.lqA ž†Ž¬vçgÏ.L-œžR³b:SÜöŒLçÃ€7Édþœ´ûÒ&•zSgg/Ôu\Ú$“>¢Ç¤bÔtº‚k¶®´=—36r=` °Ô\G>E^ÀR^x}¯Y,ƒëÒn|;"ð ÎˆçxØÙ/âû4Ê(‰ÆÑ0¾å„£ƒr¯ |]ÈÑç·ãûŸQþGÈãF`üžHXŽÞ9
+¹ýh´‰ÜG!7Žö9!wIè·ˆvòG¹%!Ç¹¡ÓpËÇãë÷×Ú©¸ŸG®ûÒ/Ò_~«Ë>cë‡iŽÜtvg?tó!Ô¥ÿIžøúBØ.ò’=£÷Å
+R¯ñýîOµ>U”Oæç¥¿Ž„8×Ø®3†öü²î“]';&p$ç’ƒ„à¦„²OàHÎÉ|’(É¹ûÄGBãÑöoÆé#àT®Š¶œ>¤’‡äüéé™ÜŒ!·ºç¾¹$Ú.¹Ä‘äJc‚„Ê>cKîa”$·òdh<ÚÃþ,¹`>û¹_ý2ê4'ý H£NÒË õÄ›¯ø|ìFÉç¤œÉÍäŽÏžš=uÂPžþ{8'ÅRN¨wo¯­©’Ç¶ÇŽ¤\RÔ¤çëí¾Éçu)÷ïfS~k×4Ï¼™©S§gêû÷•&I‹-¢—´$ý¤…*ÑTé[ëV†ž×0"½"y4¼¬’ò=øÆíuJ,oÜ†çPr»GÛÙQ@³?)]DûUÑÿ2êÜ¾šõ¿‰öÑÿV‹ñ¹Í¯Ò>±-D6Ÿý4ÙV¹Ý6Ÿé·Û«¢ÿeÔ·7éÏ´â&äVDÿ[-Æ§®Bî@TØÝ¸?Ó•#›ýÇQmÒŸéÉ"ä®Šþ—QoÆ?ûß„ÜŠèõfü1íY…ÜaÇÆö³ÿÈÍ‰þãÏtjr2ÝºÜbü¥&[¡Ùµ^Ö[2ï´¿ºfñ/âd?»-„£ý¶}œÊûC8ðßöõÙqçü=Ú•85Â?™û[œÂ£pÜ¶qªsa~.Ý#?•k„p–ÚÄ1)ú3Hã»í]ýþÃùçü‘òGû©¿ImŸÙ£×}7B}:E¹†‡ò1#Ê—ÿ¹?4ñ¹áv™mÙâð¹³M—òâ'…y96q­o#L¾Å–Þ
+†—û‚šJ€N‘¢Oé~ø·OÉìpœÏà{íû/øxiÔ³(¾±ß$_…XÿÚå«~¿Úó^Î“ö>äZŽ¬PßR@¦Ø[o/zY}ÊKw&½iO¦
+|7 ¯.ây/cÞ¿LDÛ¦˜JÁ¾½‡Âö%QO£\XÖöQcß¡í«m	ÛWÛ*ø‡~Iï¿lDë™À*=µ‡¸‘b·ÆP2ÅN}XRösÞ•ýÄhÖ?ŠþÉÀ|³u0\7+ÛSûE^´6ôÍ+äÑÀG–™ŒúOLà¬{à§LsK¯6¾ífägÝ9Ç'.pF\}%‘þï€U¼D¼”ï˜xQHêœ¥üé=|§?9wu=‰rÕ[%þçý›tÂþ´€vúSÖù`âå$â¥|›xÉ"VTÌäá[*î²1m¯š“4ìý×Ý°½5Ô«º„Kº´‡ÏÏW7¶×6~ÒÐï™ˆŽƒ<b)ÙŽƒj·ÎT{µS—Œ—l@.Ó£å^rj­ ôÅ#ÇÎcìoDÖ[î®ã%º´L£qS=a¹fã2^Y7÷/ïlg<óod­âŒ8Òÿmq¸~$?¹µQ½Ðä@^Î0^©Ï<!³û~«xÍPÌQYéÒ©ç,Ù£}{ªæ‹ã1¾©?ù¦ä›í|øÞ.ßÄ‘—[¶8qÓ[ÓõwVú­xâ8)o^JÝÚß”|1ªßéŸêˆ¢xTó›Çz x#?>HÎ³/ŒØ­³}ÊÐÇ_Û„>.öEÆ³jKvè9eÜf<™Dnó×²^­srKgµFªoÍæuÎ;3Z>|§}­ö¡n#çÝ'.p†€à~âöâc@óKùªÓ8Pó?‰ùæä‰z'füò¡~¶<Gêo‹8#imœ{}‡O5€)¿T]Ç°~dyÝ£Þ»ú£Àí—4®ú-E"¦TV®í0ùB0ÿÄwîŸ»P?ŒrÅþwçúüóKh—ùg-Zß—¸‡«oJ×JLï[‰ŽºŒ?÷ˆÆ	s`¼%ÿ'oYÄÛ$âíd Þ˜/(?!˜«]°û¾ëa»¨§PÆ=¬­Ý:¯
+Ú¾¶;-ì–6ŽÁFå¸c‘úÉ‹ñÎy¡ÓOÌÉë±ðÈÜ8pÝ¤|«<˜8<©Rœ~ØÊŠ’7KædúXãõÄ?.pv–u½úÔ°Uœ¤Pò\ixusÞÀ8ëÆÀ;vãÞfÿÐ8^¾Mué³lºKÿF¤ò-çûj—¶A•ÊGËÍ™¿_xeþ¤ÞóÎcJñ¯ü[ùj%ðÓ}à%°Ï?WÇt»Òg—h—ü˜}7'ò0ä©ÕüÒ_¤™ýø’_[ü¸À)ëzåvû>ýÝüõ¬èÎ«‚ŽC~x£Ä‡ïßv¿!ŽŒ#[œ¸ÀÊb_®ìµâÁE)÷e•Çúgq¾h”5:_¤{tÿ|`½nt® ÞæüŽ:É+õt`WËóû£×'Kœ¸ÀB^Yîl+¯”¼Êóc¿ ÏIä‘Ï´ÃœßæçK´ÏÖ‰#í·Å17ÉÙÚ÷.aß+´{~ƒ>#YœybÈj¾è ŒÿìãC&PHIGçÏã;óˆ"êe”ï¯ù$vÓN8xí2Èèýú)¿Q÷	r?sSËü<ù9~ì¯ú:êç¥ò ~÷óGïÊ?˜G˜óæ\ø1GÐc^2°§e>‡¶8q³³¤ë''¶YÍë>”2OÈGùê`Ýx­Í®ío÷ÙŒ÷J™¨»Ôr‚*î‚{¾Ú—K=:¯00¾ÒßíÕþ'Ï‘Jwæ	
+WíóQ`±¿É3Q7ó‹¿|È‡vÚÆ?q$¶8ŒÿÔóáø_BüÇÚŒê3RÑõç¾lwî2¿[qÖßÝ˜ø‰Õõ4¼b<òÊv>|o÷ž†8›½§!ÎŸ7“¶7jªEëç:å«êÌCû‰/ÇûMY×k_Ë*n˜ù÷B]õ8UqÓÎ¸½Èx_`›ÿðþÇÏÍÕž‹3,ãW½Ë³(ï~äYtíJçDO}-nä?¬ãúÙÌ3Ëvýÿ§‰Ò
+# META_INFO_SUFFIX 1
+# size="0xbda"
+# file="/private/tmp/octopussy-vm-mac-os-x-10-13-build-20180317-125404/srcdir/library/trees.po"
+# META_INFO_SUFFIX END

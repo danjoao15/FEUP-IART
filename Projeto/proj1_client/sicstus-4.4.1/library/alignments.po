@@ -1,0 +1,13 @@
+#! /bin/sh
+exec sicstus-4.4.1 -r "$0" -a "$@"
+# META_INFO 1
+# FILE: "/private/tmp/octopussy-vm-mac-os-x-10-13-build-20180317-125404/srcdir/library/alignments.po"
+# META_INFO END
+version=5 archmask=0x2805b
+xœ—MhAÇgÓÖ†¦ÑªøUL¥J´õ¤žŒ=X/J¤¢BÌ4®¦Û4I£`×SÑ‹=½O‚ ñ¦7±xïIŠôCAEo½ÍÎûO2Ï.Ýö]3;óû~ïíL"„²ÑvåwÑ¸…|ùá§õ?óBDŽŸ¹Vûç³óc-ßæEÃ©çùdQ
+‹&+GeÄjR= LË.ß‰XMã	R¹ñÆòæ»˜ÎØœzþx¤ÝÇhüòK›7ÜìôæwGš=¬'¤|d›ÙUéy2c§)éò:ÅáÒ/¤»YŠHioÈ[ç—"tvš"R*Átƒ¾lœJÖÆPÁÜÊ>o½‹MO¬Ö:2—†…¹¬SdO]ôãåHÜâbX/ÖÕ8FÃ0ÓÁÆV¬ï ÿUí³¢žj­V£:®Œ>¯5Õ3áÓåAu'íŒÌkµñ·Ê­Î‚ì*ùJ×=O…GotÕélFïZ8¡|;{Ç ªSÓ©ÙŒÔË7BæËmWnH¯\êWžDA•¤“²“Ž#ó‚/HrÏ%³Ó¶S¹„&©w.òÞ*çì)»`e¢ÞÐ‰¼]j ]¢vñûD¶Ò.äf¥î0´6Ê¯6¹‚Û*ùE:šV¾§õ÷Ûü‰¤¹óLï$Ñ¼ˆGmgá¼¸NóIò%òÔOï†gä_±u(q/Í¿cyb
+v¸)—º6úwì¶ÜäHqu1~ÒÂ_«µZÝãª·0ÓáŸ>çeœã?”ï`:Aë'ú-ŽÏlR?Wìf:ÇhÌëÆ9ÁÎ^1óB“~œUqÓ#^\ð"ü¢JÏÈ9Í¼ÒW2˜+íÿ™OÍ;±ÃL‡3ç¢œÍÍƒ9t8s°áCÒ­Úq#òÁ~?¦ˆ)în?¦kŒiù©ºŽê÷G,3LÉ”†[½5iÀ¥ !À]óièËô<Ìt8\žl”A»7àB'(Üsä7^6‹‰|°ÍÝKŸ—CÂúAç×ÎVÐÑÈ9™’“¶c;i<Þoþ,¡G¾U?C‡#ç¢M¥lö3t8òž†„ayìuÑˆ‡|q½9ö;c«ú<=ü†Tg½ëŸt¢L‡îOPá÷¦Žº+ÜÀ:¨ö£ñ·$èodpÑyÑ{aŸÅüvËÿt	‚;
+# META_INFO_SUFFIX 1
+# size="0x41f"
+# file="/private/tmp/octopussy-vm-mac-os-x-10-13-build-20180317-125404/srcdir/library/alignments.po"
+# META_INFO_SUFFIX END

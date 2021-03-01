@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="proj1_client/src">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="/Users/nelsoncosta/Desktop/SICSTUS/bin"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="proj1_client/dist/iart_proj1.jar"/>
+	<classpathentry kind="lib" path="proj1_client/dist/lib/jasper.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
